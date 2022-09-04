@@ -1,10 +1,10 @@
 # to-do-list
 
-#№skills:
-vue js
-javascript
-html
-css
+##skills:
+- vue js
+- javascript
+- html
+- css
 
 ## Project setup
 ```
