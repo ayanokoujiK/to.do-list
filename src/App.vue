@@ -2,6 +2,7 @@
   <div class="wrapper">
     <Header />
     <Description />
+    <Functional />
   </div>
 </template>
 
@@ -9,12 +10,14 @@
 
 import Header from "@/components/Header";
 import Description from "@/components/content-components/Description";
+import Functional from "@/components/content-components/Functional";
 
 export default {
   name: 'App',
   components: {
     Header,
-    Description
+    Description,
+    Functional
   }
 }
 </script>
@@ -31,7 +34,7 @@ export default {
   .wrapper{
     background-color: #5DC8CD;
     width: 700px;
-    height: 100vh;
+    height: 950px;
     margin: 0 auto;
   }
 </style>

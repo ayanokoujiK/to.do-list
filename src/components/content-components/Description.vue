@@ -53,11 +53,12 @@ export default {
   }
 
   .description-button:hover{
-    background-color: teal;
+    background-color: #025054;
   }
 
   .description-text{
     background-color: #006064;
+    border-radius: 15px;
     margin-top: 30px;
     max-width: 60%;
     padding: 10px;
