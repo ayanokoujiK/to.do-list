@@ -1,5 +1,11 @@
 # to-do-list
 
+#№skills:
+vue js
+javascript
+html
+css
+
 ## Project setup
 ```
 npm install
