@@ -1,6 +1,6 @@
 # to-do-list
 
-##skills:
+## skills:
 
 - vue js
 - javascript
